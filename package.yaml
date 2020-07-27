@@ -10,7 +10,7 @@ extra-source-files:
 - ChangeLog.md
 
 category:            Filesystem
-
+synopsis:            Binary instance for Path.
 description:         Binary instance for Path.
 
 dependencies:

@@ -6,6 +6,7 @@ cabal-version: 1.12
 
 name:           path-binary-instance
 version:        0.1.0.0
+synopsis:       Binary instance for Path.
 description:    Binary instance for Path.
 category:       Filesystem
 author:         Daniel Firth
@@ -20,7 +21,6 @@ extra-source-files:
 
 library
   exposed-modules:
-      Lib
       Path.Binary
   other-modules:
       Paths_path_binary_instance
