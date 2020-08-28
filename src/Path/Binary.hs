@@ -1,3 +1,11 @@
+{- |
+   Module     : Path.Binary
+   License    : MIT
+   Stability  : experimental
+
+Binary instance for `Path`.
+-}
+{-# OPTIONS_GHC -fno-warn-orphans #-}
 {-# LANGUAGE DeriveAnyClass     #-}
 {-# LANGUAGE FlexibleInstances  #-}
 {-# LANGUAGE StandaloneDeriving #-}
