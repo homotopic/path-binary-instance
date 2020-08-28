@@ -1,3 +1,5 @@
 # Changelog for path-binary-instance
 
-## Unreleased changes
+# v0.1.0.0
+
+* Binary instance for path.
